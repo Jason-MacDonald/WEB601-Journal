@@ -1,13 +1,14 @@
-# Test
-# More Testing!
+# WEB602 Journal: Week One
 
-Git Cheat Sheet:
+Week one of WEB602 involved investigating and practicing source code management using GitHub services.
 
-Cloning:
-    git clone [repository URL] (copy from git repository)
+# Git Cheat Sheet:
 
-Steps:
-    git add .
-    git commit -m "[message]"
-    git push origin [branch name]
+### Cloning:
+    `git clone [repository URL]` (copy from git repository)
+
+### Steps:
+    `git add .`
+    `git commit -m "[message]"`
+    `git push origin [branch name]`
 
