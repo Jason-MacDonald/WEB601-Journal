@@ -6,7 +6,7 @@ I signed up for a GitHub account a while ago not really knowing what it was. Wit
 
 Git itself is an open source version control system. This system allows development to be maintained in a central repository with shared access. Teams of people can collaborate, copies can be downloaded or cloned to a local system, code can be altered, and the results merged and pushed back to the central repository.
 
-GitHub is the web (and desktop) platform we can use to store our repositories online. 
+GitHub is the web (and desktop) platform we can use to take advantage of Git and store our repositories online. 
 
 Outside of class, we have continued the online git tutorial available at [learngitbranching.js.org](https://learngitbranching.js.org).
 
