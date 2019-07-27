@@ -1,6 +1,6 @@
-# WEB602 Journal: Week One
+# WEB601 Journal: Week One
 
-Week one of WEB602 involved investigating and practicing source code management using GitHub services.
+Week one of WEB601 involved investigating and practicing source code management using GitHub services.
 
 I signed up for a GitHub account a while ago not really knowing what it was. With only a few hours spent figuring it out and practicing commands, I'm not sure how I've lived without it.
 
