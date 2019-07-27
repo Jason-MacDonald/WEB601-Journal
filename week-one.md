@@ -12,7 +12,13 @@ The first section of the tutorial is based around local management, and understa
 
 The second section is a little more advanced and focuses on remote management. The commands themselves are not overly difficult, however the actual effects of the commands can be a little confusing. Further practice both in the learngitbranching sandbox and managment of this blog should help to fill any knowledge gaps. I will also set up a testing repository so I can test commands without fear of breaking everything. 
 
-# Git Cheat Sheet:
+### Beautification
+
+My journal was initially looking rather bland, however I noticed the automatically generated README file had some formatting. I changed the journal textfile to have the same file extension and found the following notes online to help give it a little badazzle.
+
+[basic-writing-and-formatting-syntax](https://help.github.com/en/articles/basic-writing-and-formatting-syntax)
+
+# Git Cheat Sheet For Journal:
 
 ### Cloning:
 ```
