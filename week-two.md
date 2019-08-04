@@ -16,3 +16,10 @@ We looked at several different design aspects which we will using for our projec
 I have been searching for a business in the area I can use for the project. The [Car Company](https://www.carcompanynelson.co.nz) website is looking a little dated so I'm thinking I will tackle it for my project.
 
 I'm currently working up some paper prototypes and looking at some of the free  wireframing tools. Unfortunately design is not one of my strong points and I'm aiming towards being a code monkey but we'll see how this goes...
+
+### Team Work
+Part of this weeks course work involved working in a team to develop a simple website of our own choosing. Our group (Team Middle Desk) began working on a price compare site for fish and chip takeaways targetting mobile.
+
+The front end html and css for the project is not very expansive, however collaberating through the GitHub repository has been difficult. What would normally take most people under an hour or two is moving forward very slowly.
+
+It has definately been benefitial so far though, as we are working out problems and will get faster at remote source code managment the more we practice.
