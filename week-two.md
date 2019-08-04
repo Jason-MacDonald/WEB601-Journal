@@ -1,5 +1,5 @@
 # Week Two
-We've had quite a bit of stuff to ove on with in week two:
+We've had quite a bit of stuff to move on with in week two:
 
 ### Code Academy
 We started several courses on [codecademy](https://www.codecademy.com/). The HTML class walked through many of the HTML basics from header and paragraph elements, to forms, inputs and the box model. This was a good refresher from previous learning and included a few new things I hadn't used before such as the input button type (rather than the button element). Code
