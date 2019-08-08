@@ -23,3 +23,5 @@ Part of this weeks course work involved working in a team to develop a simple we
 The front end html and css for the project is not very expansive, however collaberating through the GitHub repository has been difficult. What would normally take most people under an hour or two is moving forward very slowly.
 
 It has definately been benefitial so far though, as we are working out problems and will get faster at remote source code managment the more we practice.
+
+### NOTES: Code Complete.
