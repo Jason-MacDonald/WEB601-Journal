@@ -22,3 +22,5 @@ We started looking at nodejs which appears to be some kind of package manager wh
 ### Global and Local Memory
 
 ### Homework
+
+![Test Image](/images/header.PNG)
