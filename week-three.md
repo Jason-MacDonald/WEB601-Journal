@@ -6,9 +6,6 @@ The focus up until now has been introducing us to a variety of technologies used
 ### Group Project
 Although we didn't get very far with our group project deliverable, collaberating and working with git was a lot of fun. Don't get me wrong, We definately had our share of issues, but fixing things is part of the fun, and we will only get better with practice.
 
-### Project
-I have been wireframing up an idea for the projects website using inVision. It's a pretty basic online tool where you pretty much draw the wireframe and it tidies it up a bit. It also has collaberation options where different users can use different collars on the same project. It's a very basic little tool but has everything it needs to mock up a quick design.
-
 ### Codecademy
 Codecademy is great fun. It's probably one of the more enjoyable learning to code experiences I've come accross. I've currently finished the HTML and CSS introduction and have begun work on the javascript introduction. I've also chucked a few others in my TODO: pile such as the reactjs and git courses.
 
@@ -23,4 +20,17 @@ We started looking at nodejs which appears to be some kind of package manager wh
 
 ### Homework
 
+### Project
+I have been wireframing up an idea for the projects website using inVision. It's a pretty basic online tool where you pretty much draw the wireframe and it tidies it up a bit. It also has collaberation options where different users can use different collars on the same project. It's a very basic little tool but has everything it needs to mock up a quick design.
+
+### Project Wireframe using InVision:
 ![Test Image](/images/header.PNG)
+![Test Image](/images/home-main.PNG)
+![Test Image](/images/home-content.PNG)
+![Test Image](/images/footer.PNG)
+
+### Replicated with more detail in Marvel
+![Test Image](/images/d-header.PNG)
+![Test Image](/images/d-home-content.PNG)
+![Test Image](/images/d-home-main.PNG)
+![Test Image](/images/d-footer.PNG)
