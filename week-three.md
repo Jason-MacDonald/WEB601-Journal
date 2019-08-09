@@ -14,3 +14,11 @@ Codecademy is great fun. It's probably one of the more enjoyable learning to cod
 
 ### Node.js
 We started looking at nodejs which appears to be some kind of package manager where applications can be easily imported into a project. I'm looking forward to see what it can do.
+
+### Operators
+
+### Functions
+
+### Global and Local Memory
+
+### Homework
