@@ -12,14 +12,14 @@ Codecademy is great fun. It's probably one of the more enjoyable learning to cod
 ### Node.js
 We started looking at nodejs which appears to be some kind of package manager where applications can be easily imported into a project. I'm looking forward to see what it can do.
 
-### Operators
-
-
-### Functions
+### Operators +-#/%
+For the first half of the second session we looked at a variety of operators and jumped into boolean logic. I have a general understanding of boolean logic, although today was the first time I have come across the Implication logic where A implies B. It does seem like there might easier ways to code the logic for an implication.  
 
 ### Global and Local Memory
+The discussion we had around how the global and local memory work was very interesting. Understanding what's happening under the hood might not be required to 'make things work', it can let us better understand what our code is actually doing and may come in handy when we are trying to debug or improve performance. 
 
 ### Homework
+We got our first alot of course specified homework this week. I have created the WEB601-Homework repository to complete homework tasks. This weeks was pretty simple and required us to create a couple of functions that performed some simple arithmatic. I managed to refactor the answers into single line functions. Initially I was concerned it might make it confusing using the ECS arrow syntax because I hadn't really used it before, But after a little practice it is MUCH easier to read! 
 
 ### Project
 I have been wireframing up an idea for the projects website using inVision. It's a pretty basic online tool where you pretty much draw the wireframe and it tidies it up a bit. It also has collaberation options where different users can use different collars on the same project. It's a very basic little tool but has everything it needs to mock up a quick design.
