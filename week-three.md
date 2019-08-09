@@ -14,6 +14,7 @@ We started looking at nodejs which appears to be some kind of package manager wh
 
 ### Operators
 
+
 ### Functions
 
 ### Global and Local Memory
@@ -28,6 +29,8 @@ I have been wireframing up an idea for the projects website using inVision. It's
 ![Test Image](/images/home-main.PNG)
 ![Test Image](/images/home-content.PNG)
 ![Test Image](/images/footer.PNG)
+
+I then replicated the wireframe using another tool called Marvel. This tool was a little more comprehensive and had a variety of additional tools to use. 
 
 ### Replicated with more detail in Marvel
 ![Test Image](/images/d-header.PNG)
