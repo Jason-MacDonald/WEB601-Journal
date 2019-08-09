@@ -31,6 +31,6 @@ I have been wireframing up an idea for the projects website using inVision. It's
 
 ### Replicated with more detail in Marvel
 ![Test Image](/images/d-header.PNG)
-![Test Image](/images/d-home-content.PNG)
 ![Test Image](/images/d-home-main.PNG)
+![Test Image](/images/d-home-content.PNG)
 ![Test Image](/images/d-footer.PNG)
