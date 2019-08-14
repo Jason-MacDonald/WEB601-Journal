@@ -1,12 +1,27 @@
 # WEB601 Journal: Week Four
 
 ### Technical Jargon
-High level
+Our first discussion for week four focused on a high level view of the communications between front end and backend. The topic was covered in simplistic terms removing the technical jargon 'We request something from the sever, the server evaluates and returns the requested data etc". We also discussed the importance of being able to communicate technical details in a simplistic way as jargon can be a major barrier to effective communication. I find on occassion that someone will use an acronym or call something by a name I can't remember or haven't heard before and become immediately lost. It really comes to evaluating who you're talking to and adjusting the explaination to an appropriate level of detail. 
 
-### Evaluating node
-Go GIT > check being maintained, issues being fixed...
+### Evaluating Node Packages
+When deciding on Node packages to use in our projects, there are a range of things we should do to ensure it is appropriate on has a reasonable longevity. Simply by going to it's git repo can reveal alot of information like; 
+* is the package being updated regularly,
+* are package issues being resolved,
+* is the package well documented etc.
+I have a general understanding of what node is although I definately need some practice in implimenting packages in a few projects, and codecademy is coming the the rescue with a couple of node courses. 
 
 ### express.js
-Used for web applications in node.js framework.
-Communication between network and client.
-Routing through site => Rerouting to log in with creds.
+From my current understanding, express is built upon the node.js framework with a heavy focus on web applications. I remember taking a few php tutorials a quite a few years back so I am quite interested in how express will allow us to communicate between the network and its clients. Routing is another aspect of Express we discussed, specifically the routing for a member site where a user needs to be logged on and be able to provide credentials before they can access certain information. This is one aspect I am interested in seeing how it is handled.
+
+### Codecademy
+Unfortunately I've been a lttle slack on the codecademy front as of late. It's not that I don't enjoy it, it's actually the opposite, where I spend far more time in it then I probably should be at the moment. Now that the PRO account has been downgraded there are significantly less sections to cover, but I am continuously finding new courses that I want to take. If only I could get a job as a codecademy learner... I'm currently working through the javascript course and I'm hoping to start working on the node and express courses soon.
+
+### Homework
+Nothing to difficult in the homework we had set for the week. What I found really interesting was turning the code into arrow functions. This was the first time I have really seen alot of the ES6 shorthands like string literals ${'foo'}, ternary statements foo ? true : false, and arrow functions => and I'm always looking for ways to shorten the code. At first I found it a little difficult to read but after a while it becomes second nature.
+
+### Next Steps
+There is quite a bit to be done at the moment but my main focuses will be:
+* Finish wireframes and storyboards,
+* Draft report documentation,
+* Create project repository,
+* Create GitHub project.
