@@ -13,6 +13,90 @@ I have a general understanding of what node is although I definately need some p
 ### express.js
 From my current understanding, express is built upon the node.js framework with a heavy focus on web applications. I remember taking a few php tutorials a quite a few years back so I am quite interested in how express will allow us to communicate between the network and its clients. Routing is another aspect of Express we discussed, specifically the routing for a member site where a user needs to be logged on and be able to provide credentials before they can access certain information. This is one aspect I am interested in seeing how it is handled.
 
+### Require Statements
+Express is downloaded using NPM. We can use Nodes Require() function to add the express package to our project. We then assign express to an alternate variable.
+
+<pre>const express = Require('express');</pre> 
+<pre>const app = express;</pre>
+
+### Middleware
+Middleware is our interaction with express. This process will call actions which will be run within express and return results. The following is a general example of expresses 'use' function (without route);
+
+<pre>
+ app.use(function(request, result, next)){
+   let booking = request.booking;
+   let age = request.age;
+   if(booking && age >= 18){
+       next();
+   }
+ }</pre>
+
+ ['request' is an http request]
+
+ Flow: request > use > get > send
+
+### Routes
+Below is an example of the use function including a route using the class example.
+
+<pre>
+ app.use('/route', (request, result, next)) => {
+   let booking = request.booking;
+   let age = request.age;
+   if(booking && age >= 18){
+       next();
+   }
+ }</pre>
+
+ <pre>
+ app.get('/route':amount, (request, result, next)) => {
+     let dinner = request.params.amount;
+     result.send('Looking for table for ' + dinner);
+   }
+ }</pre>
+
+<pre>
+request = {
+    p:{
+         amount : 4
+    }
+}
+</pre>
+
+Class example of Bar:
+<pre>
+const express = Require('express');
+
+const tableRoute = express.Router();
+
+tableRoute.use(function (req, res, next)){
+    let booking = req.booking; 
+    let age = req.age;
+    if(booking && age){
+        next();
+    }
+}
+
+tableRoute.use(/bar, function (req, res, next)){
+    let age = req.age;
+    if(age >= 18){
+        next();
+    }
+}
+
+tableRoute.use(/kids, function (req, res, next)){
+    let age = req.age;
+    if(age <= 10){
+        next();
+    }
+}</pre>
+
+<pre>
+app.listen(3000){
+    console.log('Running on :3000');
+}</pre>
+
+### Application
+
 ### Codecademy
 Unfortunately I've been a lttle slack on the codecademy front as of late. It's not that I don't enjoy it, it's actually the opposite, where I spend far more time in it then I probably should be at the moment. Now that the PRO account has been downgraded there are significantly less sections to cover, but I am continuously finding new courses that I want to take. If only I could get a job as a codecademy learner... I'm currently working through the javascript course and I'm hoping to start working on the node and express courses soon.
 
