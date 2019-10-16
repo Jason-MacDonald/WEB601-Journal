@@ -31,5 +31,16 @@ I was having a little difficulty working out how to get data returned from the d
 
 ### Kill Me Now
 So there are many things in my project which I feel I could improve upon but the ever closing in deadlines mean I am having to choose which things I need to accomplish and which things I'm just not going to get to in time. Some of these include:
-*
+* css is dreadful.
+* Errors are not being handled well in all areas. (Important)
+* Several tasks such as returning a list of vehicle components can likely be handled iteratively rather than having a list of multiple elements.
+* Images are not being handled anywhere in the project.
+* I find it very difficult to work in fully commented code so I need to add more before hand in. (Important)
+
+There's also a few thing I feel would be nice to have:
+* Results that are ordered by a parameter.
+* More visually stimulating experience for the user.
+* Gallery type functionality with the vehicle component.
+* Probably many many more...
+
 Hopefully some of these thing will get done, but I'm also finding that every step I make forward reveals 10 other issues that I need to deal with. Happy Times.
